@@ -8,3 +8,4 @@
 - [2018/09/26 - String concatenation in golang since 1.10 (bytes.Buffer vs strings.Builder)](https://medium.com/@felipedutratine/string-concatenation-in-golang-since-1-10-bytes-buffer-vs-strings-builder-2b3081848c45)
 - [Concatenating and Building Strings in Go 1.10+](https://www.calhoun.io/concatenating-and-building-strings-in-go/)
 - [Github - Go 中更快的字串匹配。 可以替換 regexp 中的功能,還有一些標準庫沒有的功能。](https://github.com/boyter/go-string/)
+- [7 Ways to Concatenate Strings in GoLang](https://golangdocs.com/concatenate-strings-in-golang)
